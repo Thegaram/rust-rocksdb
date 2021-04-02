@@ -4,6 +4,6 @@
 	branch = conflux-fixed-version
 [submodule "titan"]
 	path = librocksdb_sys/libtitan_sys/titan
-	url = https://github.com/tikv/titan.git
+	url = https://github.com/Thegaram/titan.git
 	branch = tikv-4.x
 
